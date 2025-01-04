@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UsbCom422x4_Components")(type "KiCad")(uri "${KIPRJMOD}/UsbCom422x4_Components.pretty")(options "")(descr ""))
+)
